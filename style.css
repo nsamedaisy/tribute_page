@@ -30,7 +30,7 @@ body {
 }
 
 #container {
-  background-color: #eae8e8;
+  background-color: #eee;
   border-radius: 5px;
 }
 
@@ -43,7 +43,7 @@ body {
   flex-basis: auto;
   max-width: 100%;
   height: auto;
-  margin: 0 auto;
+  /* margin: 0 auto; */
 }
 
 .img-cap,
